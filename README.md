@@ -1,6 +1,6 @@
 # How-to-Embed-Google-Map-into-Roam
 This short document outlines how to embed a google map into Roam
-How to Embed Google Map into Roam Page: Uses Google My Maps functionality.
+Uses Google My Maps functionality.
 
 Go to Google My Maps - need to have a Google Account. - https://www.google.com.au/mymaps
 
@@ -22,4 +22,6 @@ Does not appear to work if Iframe is a child of a block.  Must be a top level in
 I also suspect this will only work in Chrome and only if your browser is signed into Google (haven’t tested)
 
 This is a hacky way of doing it - but it works
+
+Check out various screen shots depicting various steps.
 
